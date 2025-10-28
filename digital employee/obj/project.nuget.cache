@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bnjmA3KJ8nA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shazly\\Desktop\\assignments\\digital employee\\digital employee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shazly\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\Shazly\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
