@@ -1,6 +1,0 @@
-@digital_employee_HostAddress = http://localhost:5157
-
-GET {{digital_employee_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
